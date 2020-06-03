@@ -1,0 +1,14 @@
+<resources>
+  <string name="app_name">ValidateTor</string>
+  <string name="email">Email</string>
+  <string name="password">Password</string>
+  <string name="credit_card">Credit Card Number</string>
+  <string name="validate">Validate</string>
+  <string name="field_is_empty">Field is empty!</string>
+  <string name="invalidate_credit_card_number">Invalidate Credit Card number!</string>
+  <string name="valid_credit_card_number">Valid Credit Card Number</string>
+  <string name="valid_password">Valid Password!</string>
+  <string name="wrong_password_message">Password needs to be a minimum length of 8 characters and should have at least 1 digit, 1 uppercase letter and 1 special character</string>
+  <string name="invalid_email">Invalid Email</string>
+  <string name="valid_email">Valid Email!</string>
+</resources>
